@@ -1,7 +1,8 @@
 # CircuirDesign_VHDL
 
 Design fundamental circuit using VHDL
-+ adder
++ basic adder
++ multi-operand adder
 + multipiler
 + divider
-+ square root
+
